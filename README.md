@@ -9,6 +9,9 @@
 - [🇨🇳 《JavaScript 20 年》中文版](https://github.com/doodlewind/jshistory-cn)
 - [从 0 到 1 学习 JavaScript 数据结构与算法](https://github.com/XPoet/js-data-structures-and-algorithms)
 - [js.js: A JavaScript JavaScript interpreter](https://github.com/jterrace/js.js)
+- [web-interview](https://github.com/febobo/web-interview)
+- [fe-interview](https://github.com/haizlin/fe-interview)
+- [FE-Interview](https://github.com/lgwebdream/FE-Interview)
 ***
 - [左耳朵耗子 陈浩](https://github.com/haoel/haoel.github.io)
 - [「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。](https://github.com/Snailclimb/JavaGuide)
