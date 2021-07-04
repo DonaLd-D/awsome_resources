@@ -27,3 +27,7 @@
 - [🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：](https://github.com/xitu/gold-miner)
 - [程序员应该访问的最佳网站中文版](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
+***
+- [Screenshots with JavaScript](https://github.com/niklasvh/html2canvas)
+- [一个基于canvas的移动端图片编辑插件](https://github.com/xiaosu95/canvas_mobile_drag)
+
