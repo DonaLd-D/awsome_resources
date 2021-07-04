@@ -21,6 +21,9 @@
 - [web-interview](https://github.com/febobo/web-interview)
 - [fe-interview](https://github.com/haizlin/fe-interview)
 - [FE-Interview](https://github.com/lgwebdream/FE-Interview)
+- [List of 1000 JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
+- [List of 300 VueJS Interview Questions And Answers](https://github.com/sudheerj/vuejs-interview-questions)
+- [VueJS Interview Questions and Answers in Chinese language](https://github.com/sudheerj/vuejs-interview-questions-chinese) 
 ***
 - [左耳朵耗子 陈浩](https://github.com/haoel/haoel.github.io)
 - [「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。](https://github.com/Snailclimb/JavaGuide)
