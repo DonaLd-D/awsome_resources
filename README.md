@@ -1,5 +1,9 @@
 # 编程资源
 
+- [🎉 A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
+
+***
+
 - [每个 JavaScript 工程师都应懂的33个概念](https://github.com/stephentian/33-js-concepts)
 - [《深入浅出React和Redux》代码](https://github.com/mocheng/react-and-redux)
 - [收集优质的中文前端博客](https://github.com/FrankFang/best-chinese-front-end-blogs)
